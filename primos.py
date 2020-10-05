@@ -20,3 +20,4 @@ for numero in range(1,1000):
 
 print(listaPrimos)
 
+arquivo.close()
