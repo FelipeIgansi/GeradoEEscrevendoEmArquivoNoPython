@@ -2,7 +2,7 @@ qtnDivisores = 0
 
 listaPrimos = []
 
-arquivo = open("Primos.txt", "w")
+arquivo = open("/media/felipe/HD500/Code/python/Primos.txt", "w")
 
 arquivo.write("Esses são os primos encontrados e gerados pelo python:\n\n")
 
